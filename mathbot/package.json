@@ -1,0 +1,27 @@
+{
+  "name": "mathbot",
+  "version": "1.0.0",
+  "description": "A Discord bot that solves math problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httpjamesm/mathbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "http.james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/httpjamesm/mathbot/issues"
+  },
+  "homepage": "https://github.com/httpjamesm/mathbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mathjs": "^8.1.0"
+  }
+}
